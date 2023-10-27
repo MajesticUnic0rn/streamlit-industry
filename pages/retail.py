@@ -6,7 +6,6 @@ import plotly.express as px
 
 # Page Config
 st.set_page_config(page_title="Retail Dashboard", page_icon="📉")
-st.markdown("# Retail Dashboard")
 st.sidebar.header("Retail Dashboard")
 
 # Generate mock data
